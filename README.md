@@ -1,9 +1,18 @@
-# 👋 Hi, I'm Sami Abdul
+# 👋 Hi, I'm ABDUL SAMI
 
 🎓 Master’s Student in Computer Science at Soongsil University, Seoul, South Korea  
 🧠 AI Researcher | Generative Models & Computer Vision  
 🎨 Specializing in Diffusion Models, YOLO, and Image Generation  
-🌍 Aspiring Ph.D. Student in Europe | GPA: 4.16/4.5 (Master's), 3.73/4.0 (Bachelor's)
+🌍 Aspiring Ph.D. Student | GPA: 4.16/4.5 (Master's), 3.73/4.0 (Bachelor's)
+
+---
+
+## 🧑‍💻 Experience
+
+- 🧪 **Research Assistant**  
+  📍 *System Software Lab, Soongsil University*  
+  🗓️ *Sep 2023 – Present*  
+  Working under the supervision of **Prof. Jaeyong Choi** (https://scholar.google.com/citations?user=PkXLB5EAAAAJ&hl=ko) on advanced research in generative models, especially diffusion-based image generation for multilingual fonts. Involved in model design, experiment tracking, dataset engineering, and paper writing.
 
 ---
 
@@ -53,7 +62,7 @@ I'm currently working on **DK-Font: Diffusion-Driven Multilingual Font Generatio
 
 - 🎓 Graduate in **August 2025**
 - 📝 Publish impactful research in **CVPR**, **ICCV**, or **NeurIPS**
-- ✈️ Secure a **fully funded Ph.D. position** in Europe in AI/ML
+- ✈️ Secure a **fully funded Ph.D. position** in AI/ML
 - 🔬 Contribute to open-source AI and Computer Vision communities
 
 ---
