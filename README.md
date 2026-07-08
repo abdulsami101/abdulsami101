@@ -17,20 +17,20 @@
 
 ---
 
-🧠 **AI Engineer @ DeltaX** — building perception systems for **autonomous driving** and **in-cabin monitoring**
-🚗 Computer Vision • Object Detection • Driver Monitoring Systems (DMS)
-⚙️ Edge AI — model **quantization**, **ONNX conversion**, and deployment to **embedded devices**
-🎨 Generative Models & Diffusion researcher (M.S., Soongsil University 🇰🇷)
+**AI Engineer @ DeltaX** — building perception systems for **autonomous driving** and **in-cabin monitoring**
+Computer Vision • Object Detection • Driver Monitoring Systems (DMS)
+Edge AI — model **quantization**, **ONNX conversion**, and deployment to **embedded devices**
+Generative Models & Diffusion researcher (M.S., Soongsil University 🇰🇷)
 
 ---
 
 ## 💼 Current Role
 
-### 🧠 AI Engineer — **DeltaX**
-- 🚗 **Autonomous Driving:** Developing computer-vision perception pipelines (object detection, tracking) for self-driving applications.
-- 👁️ **In-Cabin Monitoring System (IMS/DMS):** Building models for driver & occupant monitoring — attention, drowsiness, and presence detection.
-- ⚙️ **Edge Deployment:** Converting deep learning models to run efficiently on **embedded devices**, including model **quantization** (INT8/16-bit) and optimization for real-time, low-power inference.
-- 🔧 **Hardware/Software Bridge:** Working across the ML + embedded stack — from training in PyTorch to compiled artifacts on target hardware.
+### AI Engineer — **DeltaX**
+- **Autonomous Driving:** Developing computer-vision perception pipelines (object detection, tracking) for self-driving applications.
+- **In-Cabin Monitoring System (IMS/DMS):** Building models for driver & occupant monitoring — attention, drowsiness, and presence detection.
+- **Edge Deployment:** Converting deep learning models to run efficiently on **embedded devices**, including model **quantization** (INT8/16-bit) and optimization for real-time, low-power inference.
+- **Hardware/Software Bridge:** Working across the ML + embedded stack — from training in PyTorch to compiled artifacts on target hardware.
 
 ---
 
