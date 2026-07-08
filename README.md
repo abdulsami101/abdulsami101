@@ -27,21 +27,21 @@ Generative Models & Diffusion researcher (M.S., Soongsil University 🇰🇷)
 ## 💼 Current Role
 
 ### AI Engineer — **DeltaX**
-- **Autonomous Driving:** Developing computer-vision perception pipelines (object detection, tracking) for self-driving applications.
-- **In-Cabin Monitoring System (IMS/DMS):** Building models for driver & occupant monitoring — attention, drowsiness, and presence detection.
+- **Automotive AI:** Engineering end-to-end computer vision pipelines and post-processing logic for next-generation smart vehicle In-Cabin Monitoring Systems (ICMS).
+- **In-Cabin Monitoring System (IMS/DMS):** Developing high-accuracy AI features to detect seatbelt compliance, track driver distraction (like looking away, phone use or hands off the wheel), and ensure passenger safety (identifying adults, children, and pets).
 - **Edge Deployment:** Converting deep learning models to run efficiently on **embedded devices**, including model **quantization** (INT8/16-bit) and optimization for real-time, low-power inference.
-- **Hardware/Software Bridge:** Working across the ML + embedded stack — from training in PyTorch to compiled artifacts on target hardware.
+- **Hardware/Software Bridge:** Working across the ML + embedded system — from training in PyTorch to compiled artifacts on target automotive hardware.
 
 ---
 
-## ⚙️ Edge AI & Model Optimization
+## Edge AI & Model Optimization
 
 I focus on taking models from research to **real hardware**:
 
-- 🔁 **Model Conversion:** PyTorch → ONNX → hardware-optimized artifacts
-- 📉 **Quantization:** Post-training quantization (INT8 / 16-bit) with calibration for minimal accuracy loss
-- 🧩 **Embedded Deployment:** Compiling & benchmarking models for **TI TDA4VM** and similar SoCs (AM68A, AM69A, AM62A)
-- ⚡ **Optimization:** Inference-time tuning, memory-bandwidth reduction, FPS/latency benchmarking
+- **Model Conversion:** PyTorch → ONNX → hardware-optimized artifacts
+- **Quantization:** Post-training quantization (INT8 / 16-bit) with calibration for minimal accuracy loss
+- **Embedded Deployment:** Compiling & benchmarking models for **TI TDA4VM** and similar SoCs (AM68A, AM69A, AM62A)
+- **Optimization:** Managing inference-time tuning, memory-bandwidth reduction, and real-time latency/FPS benchmarking.
 
 > 📦 See my guide/repo: **[onnx-to-ti-tda4vm](https://github.com/abdulsami101/onnx-to-ti-tda4vm)** — a full walkthrough for converting ONNX models to TI TIDL artifacts for embedded boards.
 
@@ -51,29 +51,43 @@ I focus on taking models from research to **real hardware**:
 
 | Degree | Institution | GPA | Status |
 | :-- | :-- | :-- | :-- |
-| M.S. in Computer Science | Soongsil University, Seoul 🇰🇷 | **4.16 / 4.5** | ✅ Completed (2025) |
-| B.S. in Computer Science | **Mehran University**, Pakistan 🇵🇰 | **3.73 / 4.0** | ✅ Completed |
+| M.S. in Computer Science | **Soongsil University**, Seoul 🇰🇷 | **4.16 / 4.5** | ✅ Completed (2025) |
+| B.E. in Software Engineering | **Mehran University**, Pakistan 🇵🇰 | **3.73 / 4.0** | ✅ Completed (2018) |
 
 ---
 
 ## 🧑‍🔬 Research Background
 
-During my Master's, I worked as a **Research Assistant** at the *System Software Lab, Soongsil University* under **[Prof. Jaeyong Choi](https://scholar.google.com/citations?user=PkXLB5EAAAAJ&hl=ko)**, focusing on **diffusion-based generative models**.
+During my Master's program, I served as a **Research Assistant** at the **System Software Lab, Soongsil University**, collaborating with **[Prof. Jaeyong Choi](https://scholar.google.com/citations?user=PkXLB5EAAAAJ&hl=ko)**. My research focused on pushing the boundaries of **diffusion-based generative models** for complex, multi-lingual, and low-resource font synthesis.
 
-- 🎨 **DK-Font: Diffusion-Driven Multilingual Font Generation** — blending phonetic awareness with iterative refinement to generate high-quality fonts across languages.
-- 🧠 **FontDiffuser Extension** — advanced multilingual support and contrastive learning for Korean & Chinese fonts.
-- 🧪 **Style Mixing with VGG Features** — synthesizing hybrid styles from handwritten and printed fonts.
+### 📄 Publications
+
+- **Sami-Font: Structure and Style-Aware Multi-Scale Infusion for One-Shot Multilingual Typeface Generation**
+  *First Author* | *The Visual Computer (Springer)*
+  [Paper Link](https://link.springer.com/article/10.1007/s00371-026-04631-7)
+- **DML-Font: Multilingual Font Generation Based on Diffusion Model**
+  *First Author* | *KSII Transactions on Internet and Information Systems (TIIS)*
+  [Paper Link](https://itiis.org/digital-library/107367)
+- **Positional Component-Guided Hangul Font Image Generation via Deep Semantic Segmentation and Adversarial Style Transfer**
+  *Third Author* | *Electronics (MDPI)*
+  [Paper Link](https://www.mdpi.com/2079-9292/14/13/2699)
+- **Text-Conditioned Diffusion Model for High-Fidelity Korean Font Generation**
+  *First Author* | *IEEE*
+  [Paper Link](https://ieeexplore.ieee.org/document/10992882)
 
 ---
 
-## 💡 Areas of Expertise
+## 💡 Core Competencies & Domain Expertise
 
-- 👁️ **Computer Vision** — Object Detection, Segmentation, Tracking, Classification
-- 🚗 **Autonomous Systems** — Perception & Driver/Occupant Monitoring
-- ⚙️ **Edge AI & Embedded ML** — Quantization, ONNX, TIDL, on-device inference
-- 🌈 **Generative AI** — Diffusion Models, GANs, VAEs
-- 🔤 **Multimodal & Multilingual Representation Learning**
-- 📚 **LLM Applications & Prompt Engineering**
+### 🚗 Intelligent Vehicle Perception & Edge AI
+* **Advanced In-Cabin Systems (ICMS):** Architecting real-time vision pipelines for occupant detection, 3D body keypoints, gaze tracking, and safety compliance (seatbelt, HOD, phone-use, CPD).
+* **Hardware-Aware Optimization:** Porting deep learning models to resource-constrained embedded automotive hardware via INT8/FP16 post-training quantization and custom calibration.
+* **Target Runtime Compilation:** End-to-end framework translation across the PyTorch → ONNX → TI TIDL pipeline for low-power, edge-accelerated inference.
+
+### 🎨 Generative AI & Image-to-Image Synthesis
+* **Image-to-Image (I2I) Translation:** Designing deep learning architectures to translate, map, and transform visual content across completely different domains while preserving core structural integrity.
+* **Diffusion & GAN Architectures:** Implementing state-of-the-art conditional diffusion models and Generative Adversarial Networks (GANs) for high-fidelity image generation, conditional synthesis, and advanced image editing.
+* **Synthetic Data Engineering:** Developing automated pipelines utilizing foundation models (SAM) for high-fidelity image inpainting, synthetic data augmentation, and automated dataset annotation.
 
 ---
 
@@ -155,7 +169,7 @@ During my Master's, I worked as a **Research Assistant** at the *System Software
 
 - 🌐 **LinkedIn:** [abdul-sami-306339178](https://www.linkedin.com/in/abdul-sami-306339178/)
 - 📧 **Email:** `sami@soongsil.ac.kr`
-- 🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=PkXLB5EAAAAJ&hl=ko)
+- 🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=YSI0Su4AAAAJ&hl=en)
 - 🗂️ **Portfolio:** [abdulsami101.github.io](https://abdulsami101.github.io/)
 
 ---
