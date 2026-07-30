@@ -18,7 +18,7 @@
 ---
 
 **AI Engineer @ DeltaX** — building perception systems for **autonomous driving** and **in-cabin monitoring**
-Computer Vision • Object Detection • Driver Monitoring Systems (DMS)
+ComputerVision • Object Detection • Driver Monitoring Systems (DMS)
 Edge AI — model **quantization**, **ONNX conversion**, and deployment to **embedded devices**
 Generative Models & Diffusion researcher (M.S., Soongsil University 🇰🇷)
 
