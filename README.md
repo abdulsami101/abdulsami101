@@ -137,24 +137,7 @@ During my Master's program, I served as a **Research Assistant** at the **System
 | 🧬 **[DCGAN](https://github.com/abdulsami101/DCGAN)** / **[pix2pix](https://github.com/abdulsami101/pix2pix)** | Generative models for image synthesis & image-to-image translation. |
 | 🔤 **[Hangul Classifier](https://github.com/abdulsami101/Hangul-Classifier)** | Deep learning classifier for Korean characters. |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulsami101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsami101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdulsami101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulsami101&theme=tokyonight&no-frame=true&margin-w=10&column=7" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🎯 Goals
 
